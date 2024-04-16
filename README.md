@@ -1,6 +1,5 @@
 # Words to Numbers
 
-## Introduction
 The challenge is simple: Convert numbers into their word form, with no tricks like libraries, packages, caching, etc.
 
 The "Words to Numbers" project is a challenging Python script that converts numbers (greater than 0) into their word form only with a single line of code. Originally aimed to produce this program in under 90 lines in Python, I refined and rewrote it over and over to achieve its final state.
