@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "words-to-numbers"
+version = "0.1.0"
+description = ""
+authors = ["DragonXDev <amaardevx@gmail.com>"]
+readme = "README.md"
+packages = [{include = "words_to_numbers"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
